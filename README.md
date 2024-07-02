@@ -14,7 +14,7 @@ A simple image compressing tool made using Python, OpenCV and CustomTkinter
 to preserve the quality of the image while at the same time enusuring that the file size isn't too big.(your mileage may vary)
 - For more information regarding image compression using OpenCV --> https://www.opencvhelp.org/tutorials/advanced/image-compression
 
-#Libraries used
+# Libraries used
 - OpenCV
 - CustomTkinter
 - PIL
