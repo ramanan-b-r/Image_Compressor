@@ -1,7 +1,7 @@
 # Image Compressor
 A simple image compressing tool made using Python, OpenCV and CustomTkinter
 
-# How to use
+# How to use it?
 - Store all the images that need to be compressed in a folder. Select this folder when the program asks you to choose the source files.
 - Create a destination folder for the compressed images to be stored and choose this when prompted by the program to choose the save location.
 - After choosing the source and the destination folder select the quality by dragging the slider.
