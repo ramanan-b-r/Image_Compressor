@@ -10,8 +10,7 @@ A simple image compressing tool made using Python, OpenCV and CustomTkinter
 
 # Notes
 - The images *have* to be stored in a folder
-- In my testing anything above 85 for the quality should be good and will allow you 
-to preserve the quality of the image while at the same time enusuring that the file size isn't too big.(your mileage may vary)
+- For best results, start with a quality level of 85 or above. This usually offers a good balance between file size reduction and image preservation. However, the optimal setting may vary based on your specific images and desired quality trade-off.
 - For more information regarding image compression using OpenCV --> https://www.opencvhelp.org/tutorials/advanced/image-compression
 
 # Libraries used
