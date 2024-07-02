@@ -15,4 +15,6 @@ A simple image compressing tool made using Python, OpenCV and CustomTkinter
 - CustomTkinter
 - PIL
 
+![image](https://github.com/ramanan-b-r/Image_Compressor/assets/173793293/454051c5-7773-4619-8cb2-7412f9eb69e2)
+![image](https://github.com/ramanan-b-r/Image_Compressor/assets/173793293/3cc0f57c-6b09-467d-984c-d94d8ce30005)
 
