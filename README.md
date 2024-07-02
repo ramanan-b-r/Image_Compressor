@@ -9,9 +9,14 @@ A simple image compressing tool made using Python, OpenCV and CustomTkinter
 - Lower quality  --> Smaller file size but image quality is lower.
 
 # Notes
--The images *have* to be stored in a folder
--In my testing anything above 85 for the quality should be good and will allow you 
+- The images *have* to be stored in a folder
+- In my testing anything above 85 for the quality should be good and will allow you 
 to preserve the quality ff the image while at the same time not making the file size too big.(your mileage may vary)
+- For more information regarding image compression using OpenCV  --> https://www.opencvhelp.org/tutorials/advanced/image-compression/
+
 #Libraries used
-OpenCV
-CustomTkinter
+- OpenCV
+- CustomTkinter
+- PIL
+
+#
